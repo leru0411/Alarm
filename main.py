@@ -23,7 +23,7 @@ def alarm_clock(): #реализация звона будильника
             
 def play_ring(): 
     print('meow')
-    playsound('C:/Users/Valery/Desktop/python_projects/будильник/roar.mp3')
+    playsound('C:/Users/Valery/Desktop/Alarm/myiu.mp3')
 
 current_time = Label(alarm, font=("helvetica", 15))
 current_time.pack()
